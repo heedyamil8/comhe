@@ -1,0 +1,11 @@
+body{
+    background-color: #52CD75;
+}
+.logo{
+    display: flex;
+    position: absolute;
+    align-items: center;
+    left: 490px;
+    top: 200px;
+
+}
